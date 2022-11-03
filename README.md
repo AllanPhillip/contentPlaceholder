@@ -1,5 +1,5 @@
 <h1>Content Placeholder</h1>
 
-<h3>Pequeno projeto utilizando HTML 5 e CSS 3</h3>
+<h3>Pequeno projeto utilizando HTML 5, CSS 3 e Javascript</h3>
 
-<p>Link do projeto: </p>
+<p>Link do projeto: https://allanphillip.github.io/contentPlaceholder/</p>
